@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soran Shah
+- 👋 Hi, I’m @
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AWS
