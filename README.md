@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Roman
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AWS
+- 👀 Graduated Computer Science @ UC San Diego
 - 📫 How to reach me by email
+- [My Portfolio](https://rahmadi0.github.io/My-Portfolio/)
 
 <!---
 rahmadi0/rahmadi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
