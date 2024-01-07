@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m Roman
-- # 👀 Graduated Computer Science @ UC San Diego
+- ## 👀 Graduated Computer Science @ UC San Diego
 - ### 📫 How to reach me by email: romanahmadi2016@gmail.com
 - ### [My Portfolio](https://rahmadi0.github.io/My-Portfolio/)
 
